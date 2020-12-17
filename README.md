@@ -3,12 +3,10 @@
 You can find out more about me at my [website](https://baseng0815.github.io/Homepage/).
 
 My GPG key can also be found on keyservers.
-
-pub   rsa3072/2A7DD530201D4B87
-
-F59CFA82FF2CBD2266D1ED032A7DD530201D4B87
-
+<pre><code>pub   rsa3072/2A7DD530201D4B87
+      F59CFA82FF2CBD2266D1ED032A7DD530201D4B87
 sub   rsa3072/BED2D3220D0B2744
+</code></pre>
 
 ![](https://img.shields.io/badge/OS-Arch%20Linux-red)
 ![](https://img.shields.io/badge/Shell-zsh-green)
