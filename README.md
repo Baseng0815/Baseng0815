@@ -11,6 +11,7 @@ sub   rsa3072/BED2D3220D0B2744
 ![](https://img.shields.io/badge/OS-Arch%20Linux-red)
 ![](https://img.shields.io/badge/Shell-zsh-green)
 ![](https://img.shields.io/badge/Browser-Brave-informational)
+![](https://img.shields.io/badge/Editor-Neovim-lightgrey)
 
 <a href="https://github.com/Baseng0815/Baseng0815">
   <img src="https://github-readme-stats.vercel.app/api?username=Baseng0815&theme=algolia" />
