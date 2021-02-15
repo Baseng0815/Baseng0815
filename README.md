@@ -1,6 +1,6 @@
 ### Hi there, I'm Bastian 👋
 
-You can find out more about me at my [website](https://baseng0815.github.io/Homepage/) (currently being redesigned).
+You can find out more about me at my [website](http://engelnet.ddns.net) (currently being redesigned, HTTPS will come soon).
 
 My GPG key can also be found on keyservers.
 <pre><code>pub   rsa3072/2A7DD530201D4B87
