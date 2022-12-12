@@ -2,7 +2,7 @@
 
 You can find out more about me at my [website](https://www.bengel.xyz).
 
-My GPG key can also be found on keyservers.
+My GPG key can also be found on [keys.openpgp.org](https://keys.openpgp.org).
 <pre><code>pub   rsa3072/2A7DD530201D4B87
       F59CFA82FF2CBD2266D1ED032A7DD530201D4B87
 sub   rsa3072/BED2D3220D0B2744
