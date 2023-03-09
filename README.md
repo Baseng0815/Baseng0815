@@ -1,6 +1,6 @@
 ### Hi there, I'm Bastian 👋
 
-You can find out more about me at my [website](https://www.bengel.xyz).
+You can find out more about me on my [website](https://www.bengel.xyz).
 
 My GPG key can also be found on [keys.openpgp.org](https://keys.openpgp.org).
 <pre><code>pub   rsa3072/2A7DD530201D4B87
