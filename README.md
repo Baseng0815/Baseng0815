@@ -8,7 +8,7 @@ My GPG key can also be found on [keys.openpgp.org](https://keys.openpgp.org).
 sub   rsa3072/BED2D3220D0B2744
 </code></pre>
 
-![](https://img.shields.io/badge/OS-Arch%20Linux-red)
+![](https://img.shields.io/badge/OS-NixOS-red)
 ![](https://img.shields.io/badge/Shell-zsh-green)
 ![](https://img.shields.io/badge/Browser-Brave-informational)
 ![](https://img.shields.io/badge/Editor-Neovim-lightgrey)
